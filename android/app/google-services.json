@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320737047269",
+    "project_id": "reco-genie",
+    "storage_bucket": "reco-genie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320737047269:android:1993e8beec68ff80aa5a0c",
+        "android_client_info": {
+          "package_name": "com.example.reco_genie_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QvRMQca5Hy4HyH9NoV41CYgZQoQE58Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
