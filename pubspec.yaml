@@ -13,6 +13,9 @@ dependencies:
 
   cupertino_icons: ^1.0.8
 
+  # Core dependencies
+  flutter_screenutil: ^5.9.3
+
   # Firebase dependencies
   firebase_core: ^3.6.0
   firebase_auth: ^5.3.1
@@ -22,9 +25,28 @@ dependencies:
   # Flutter Bloc dependencies
   flutter_bloc: ^9.1.1
 
+  #API
+  dio: ^5.8.0+1
+  pretty_dio_logger: ^1.4.0
+  retrofit: ^4.4.2
+  json_annotation: ^4.9.0
+
+  #Freezed
+  freezed_annotation: ^2.4.4
+
+  # UI
+  shimmer: ^3.0.0
+  cached_network_image: ^3.4.1
+  flutter_svg: ^2.1.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  # dart run build_runner build --delete-conflicting-outputs
+  build_runner: ^2.4.14
+  freezed: ^2.4.6
+  retrofit_generator: ^9.1.7
+  json_serializable: ^6.7.1
 
   flutter_lints: ^5.0.0
 
